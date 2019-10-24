@@ -1,0 +1,16 @@
+.sub-box {
+  width: 200px;
+}
+
+.sub-box h3 {
+  font-weight: 600;
+  color: #1f2535;
+  font-size: 30px;
+  margin: 0;
+}
+
+.sub-box p {
+  color: #818181;
+  font-size: 20px;
+  margin: 10px 0px;
+}
